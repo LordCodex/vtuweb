@@ -194,6 +194,9 @@ section {
 .box-content-text > p {
   font-size: 14px;
 }
+.mobile{
+    display: none;
+  }
 @media (max-width: 768px) {
     section {
         margin-bottom: 3em;
@@ -246,6 +249,12 @@ section {
     font-weight: 900;
   }
   .box-content-text > button {
+    display: none;
+  }
+  .mobile{
+    display: block;
+  }
+  .pc{
     display: none;
   }
 }
