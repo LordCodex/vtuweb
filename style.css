@@ -30,7 +30,14 @@
 }
 
 body {
-}
+    font-weight: 400;
+    font-style: normal;
+    scroll-timeline: inherit;
+    text-rendering: optimizeSpeed;
+    -moz-font-smoothing: antialiased;
+    scroll-behavior: smooth;
+    -webkit-tap-highlight-color: transparent;
+  }
 .w-90 {
   max-width: 80%;
   margin: 0 auto;
