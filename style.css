@@ -297,6 +297,11 @@ section {
 .download-app-text > button {
 max-width: 50%;
   }
+  .download-app-image img {
+    width: 100% !important;
+    object-fit: cover;
+    height: 100%;
+  }
 @media (max-width: 768px) {
   section {
     margin-bottom: 2em;
