@@ -329,8 +329,8 @@ footer{
   gap: 1em;
 }
 .footer-top-box-app-icons {
-  display: flex;
-  align-items: center;
+  /* display: flex;
+  align-items: center; */
   gap: 1em;
   margin-left: 8em;
 }
