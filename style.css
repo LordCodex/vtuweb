@@ -334,7 +334,7 @@ footer{
   gap: 1em;
   margin-left: 8em;
 }
-@media (max-width: 768px) {
+@media (max-width: 900px) {
   section {
     margin-bottom: 2em;
   }
